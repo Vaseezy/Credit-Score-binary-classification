@@ -27,5 +27,4 @@ https://www.kaggle.com/datasets/taweilo/loan-approval-classification-data?resour
 1) EDA анализ
 2) Построение нескольких Baseline моделей
 3) Подбор параметров и обучения моделей на них
-4) Stacking
-5) Выводы и анализ признаков.
+4) Stacking, выводы и анализ признаков. 
